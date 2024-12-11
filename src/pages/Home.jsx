@@ -1,5 +1,5 @@
 import { Link as RouterLink } from "react-router-dom";
-import productiveSvg from "/Users/User/Desktop/taskly/productive.svg";
+import productiveSvg from "../img/productive.svg";
 import { Box, Heading, Text, Link, Flex, Stack, Image } from "@chakra-ui/react";
 export default function Home() {
   return (
